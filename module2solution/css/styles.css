@@ -5,6 +5,8 @@
 h1 {
   margin-bottom: 15px;
   text-align:center;
+  font-family: "Georgia", Times, serif;
+  font-size: 175%;
 }
 .container {
   border: 1px solid #000;
@@ -35,6 +37,7 @@ p {
   right: -1px;
   top: -21px;
   color: black;
+  font-size: 125%;
 }
 #item2 {
   border: 1px solid #000;
@@ -45,6 +48,7 @@ p {
   top: -21px;
   right: -1px;
   color: black;
+  font-size: 125%;
 }
 #item3 {
   border: 1px solid #000;
@@ -55,6 +59,7 @@ p {
   top: -21px;
   right: -1px;
   color: black;
+  font-size: 125%;
 }
 /** desktop **/
 @media (min-width: 992px){
