@@ -25,7 +25,7 @@ p {
   width: 100%;
   font-family: cursive;
   color: #660033;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 #item1 {
@@ -35,9 +35,10 @@ p {
     width: 100px;
   position: absolute;
   right: -1px;
-  top: -21px;
+  top: -31px;
   color: black;
   font-size: 125%;
+  padding-bottom: 2px;
 }
 #item2 {
   border: 1px solid #000;
@@ -45,10 +46,11 @@ p {
   text-align:center;
   width: 100px;
   position: absolute;
-  top: -21px;
+  top: -31px;
   right: -1px;
   color: black;
   font-size: 125%;
+  padding-bottom: 2px;
 }
 #item3 {
   border: 1px solid #000;
@@ -56,10 +58,11 @@ p {
   text-align:center;
   width: 100px;
   position: absolute;
-  top: -21px;
+  top: -31px;
   right: -1px;
   color: black;
   font-size: 125%;
+  padding-bottom: 2px;
 }
 /** desktop **/
 @media (min-width: 992px){
